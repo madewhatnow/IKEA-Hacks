@@ -2,7 +2,7 @@
 
 You will find brief descriptions or at least links to various IKEA-related projects here. 
 Any 3D printed files will be deposited either in the repository, on [Thingiverse](https://www.thingiverse.com/fechter/) or on 
-[PrusaPrinters}(https://www.prusaprinters.org/social/47364-madewhatnow/prints). 
+[PrusaPrinters](https://www.prusaprinters.org/social/47364-madewhatnow/prints). 
 
 
 ### SKOGSTA bench with storage shelf
