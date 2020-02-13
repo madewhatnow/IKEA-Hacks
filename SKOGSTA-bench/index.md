@@ -19,7 +19,7 @@ This is the finished product:
 
 ## Mount the L-brackets
 
-Forgot to take pictures here. Measure the distance from the underside of the bench top. we went with 35.5cm, as this would allow fitting the standard storage boxes and reasonable large books in there. Conveniently, at this height one of the two wall shelf boards has the exactly right widh to fit in there. Coincidence? Maybe. 
+Forgot to take pictures here, sorry. Decide how high the shelf board should go, and measure the distance from the underside of the bench top. We went with 35.5cm, as this would allow fitting standard storage boxes and reasonable large books in there. Conveniently, at this height one of the two wall shelf boards has the exactly right width to fit in there. Coincidence? Maybe. Use short wood screws to mount the brackets, make sure they are at the same level on all four legs. 
 
 
 ![Progress](images/SKOGSTA2.jpg)
@@ -29,6 +29,8 @@ Forgot to take pictures here. Measure the distance from the underside of the ben
 
 
 ## Fix the shelf board
+
+Place the shelf board on the L brackets, make sure it's symmetric (aka 'flush with the ends of the bench').
 
 If your L-brackets have holes, feel free to drill/screw through them into the board. The ones we had available unfortunately hadn't, and were a bit whimpy. Putting for screws into them horizontally through the legs fixed that problem. Obviously we pre-drilled holes to prevent the legs from splitting. 
 
