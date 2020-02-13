@@ -7,7 +7,7 @@ Any 3D printed files will be deposited either in the repository, on [Thingiverse
 
 ### SKOGSTA bench with storage shelf
 
-A mash-up: how to convert a bench & a wall shelf into a low-slung cabinet-bench-TV stand with perfectly matching wood. [here](http://www.madewhatnow.com/SKOGSTA-bench/index.html)
+A mash-up: how to convert a bench & a wall shelf into a low-slung cabinet-bench-TV stand with perfectly matching wood. [here](http://www.madewhatnow.com/IKEA-Hacks/SKOGSTA-bench/index.html)
 
 ### Earthquake-proof IVAR shelves: shelf lips we wish IKEA would sell 
 
