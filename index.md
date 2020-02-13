@@ -11,8 +11,8 @@ A mash-up: how to convert a bench & a wall shelf into a low-slung cabinet-bench-
 
 ### Earthquake-proof IVAR shelves: shelf lips we wish IKEA would sell 
 
-IKEA does not sell any shelf lips that would make IVAR shelves a bit more earthquake-proof. Luckily, the OBSERVATOR cross braces can be
-easily converted to a little railing, with a few simple 3D printed parts. [here](https://www.thingiverse.com/thing:4136973)
+IKEA does not offer any shelf lips that would make IVAR shelves a bit more earthquake-proof. Luckily, a spare OBSERVATOR cross brace can be
+easily converted into a railing, with a few simple 3D printed parts. [here](https://www.thingiverse.com/thing:4136973)
 
 ### Custom-fitted IVAR cutlery drawer
 
