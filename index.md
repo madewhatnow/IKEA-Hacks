@@ -16,6 +16,6 @@ easily converted into a railing, with a few simple 3D printed parts. [here](http
 
 ### Custom-fitted IVAR cutlery drawer
 
-Filled a gaping hole in IKEA's sortiment: a cutlery insert that actually fits the IVAR drawer. 3D-printable. [here] (https://www.prusaprinters.org/prints/20809-ikea-ivar-drawer-cutlery-organizer-flatware-tray)
+Filled a gaping hole in IKEA's sortiment: a cutlery insert that actually fits the IVAR drawer. 3D-printable. [here](https://www.prusaprinters.org/prints/20809-ikea-ivar-drawer-cutlery-organizer-flatware-tray)
 
 Feel free to get in touch!
